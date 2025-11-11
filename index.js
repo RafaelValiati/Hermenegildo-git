@@ -1,3 +1,3 @@
 function alertaGeral(){
-    alert("trabalho git");
+    alert("alteração para conflito forçado");
 }
